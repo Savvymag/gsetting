@@ -1,4 +1,3 @@
-<script language=JavaScript>
 <!--
 //Disable right mouse click Script
 var message="Function Disabled!";
@@ -19,4 +18,3 @@ else if (document.all&&!document.getElementById){
 document.onmousedown=clickIE4;
 }document.oncontextmenu=new Function("alert(message);return false")
 // -->
-</script>.
