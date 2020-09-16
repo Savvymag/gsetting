@@ -1,0 +1,2 @@
+# gsetting
+GLOBAL SETTINGS, USER CAN CHANGE
