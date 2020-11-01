@@ -29,3 +29,17 @@ function smartLink(){
     }
 }
 </script>
+<script type='text/javascript'>
+var f = new smartLink();
+f.add(&quot;diet&quot;, &quot;https://www.cryptosavvy.com/2016/12/diet-lose-5-pounds-2-weeks.html&quot;);
+f.startScript();
+f.add(&quot;1diet&quot;, &quot;https://www.cryptosavvy.com/&quot;);
+f.startScript();
+f.add(&quot;0diet&quot;, &quot;https://www.cryptosavvy.com/&quot;);
+f.startScript();
+f.add(&quot;5diet&quot;, &quot;https://www.cryptosavvy.com/&quot;);
+f.startScript();
+f.add(&quot;4diet&quot;, &quot;https://www.cryptosavvy.com/&quot;);
+f.startScript();
+</script>                
+                
