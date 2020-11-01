@@ -1,4 +1,4 @@
-<script type='text/javascript'>
+
 function smartLink(){
     this.keywdHref = new Object();
     this.add = function(keyword, href){
@@ -28,7 +28,7 @@ function smartLink(){
         }
     }
 }
-</script>
+
 <script type='text/javascript'>
 var f = new smartLink();
 f.add(&quot;diet&quot;, &quot;https://www.cryptosavvy.com/2016/12/diet-lose-5-pounds-2-weeks.html&quot;);
