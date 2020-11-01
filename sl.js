@@ -1,3 +1,4 @@
+<script type='text/javascript'>
 function smartLink(){
     this.keywdHref = new Object();
     this.add = function(keyword, href){
@@ -27,5 +28,4 @@ function smartLink(){
         }
     }
 }
-
-
+</script>
